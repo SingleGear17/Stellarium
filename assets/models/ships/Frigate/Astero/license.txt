@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spaceship COLAID1 50k
+* source:	https://sketchfab.com/3d-models/spaceship-colaid1-50k-34acc30c89364a668ab1025686a686bc
+* author:	Jungle Jim (https://sketchfab.com/jungle_jim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spaceship COLAID1 50k" (https://sketchfab.com/3d-models/spaceship-colaid1-50k-34acc30c89364a668ab1025686a686bc) by Jungle Jim (https://sketchfab.com/jungle_jim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

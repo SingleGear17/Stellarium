@@ -1,0 +1,8 @@
+Model Information:
+* title:	Andromeda
+* source:	https://sketchfab.com/3d-models/andromeda-55d65ffffdd84731bd8a82b2af440e4e
+* author:	morenostefanuto (https://sketchfab.com/morenostefanuto)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

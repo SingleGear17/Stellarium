@@ -1,0 +1,30 @@
+[gd_scene format=3 uid="uid://c3iwhbaqe7514"]
+
+[ext_resource type="Script" uid="uid://cwuijlv2d8qa0" path="res://scripts/world/World.gd" id="1_dphjl"]
+
+[sub_resource type="Environment" id="Environment_dphjl"]
+background_mode = 1
+background_color = Color(0.015686275, 0.03137255, 0.05882353, 1)
+ambient_light_color = Color(0.101960786, 0.16470589, 0.22745098, 1)
+ambient_light_energy = 0.3
+
+[node name="World" type="Node3D" unique_id=647706678]
+script = ExtResource("1_dphjl")
+
+[node name="Camera" type="Camera3D" parent="." unique_id=603988045]
+transform = Transform3D(1, 0, 0, 0, 0.70710677, 0.70710677, 0, -0.70710677, 0.70710677, 0, 50, 0)
+projection = 1
+size = 100.0
+
+[node name="Sunlight" type="DirectionalLight3D" parent="." unique_id=555330166]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -45, 45, 0)
+light_energy = 1.5
+shadow_enabled = true
+shadow_blur = 2.0
+
+[node name="Ships" type="Node3D" parent="." unique_id=761967485]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=209768791]
+environment = SubResource("Environment_dphjl")
+
+[node name="Asteroids" type="Node3D" parent="." unique_id=424381388]

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Vulcan Dkyr Class
+* source:	https://sketchfab.com/3d-models/vulcan-dkyr-class-94fe4c5db2c6405abf8d5c991f62f8f8
+* author:	morenostefanuto (https://sketchfab.com/morenostefanuto)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

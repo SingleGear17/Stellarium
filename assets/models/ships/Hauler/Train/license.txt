@@ -1,0 +1,8 @@
+Model Information:
+* title:	Science Fiction Tram / Train
+* source:	https://sketchfab.com/3d-models/science-fiction-tram-train-f29698562b454837a6904fd399d99411
+* author:	@blue.blender.print (https://sketchfab.com/arobaco)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

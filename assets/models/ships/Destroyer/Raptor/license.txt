@@ -1,0 +1,11 @@
+Model Information:
+* title:	SpaceShip Fighter  - Version 2 [MESHY 6]
+* source:	https://sketchfab.com/3d-models/spaceship-fighter-version-2-meshy-6-ff69bc6de8584bb4b2d6fac0b5a1d2ed
+* author:	Ethan Cox (https://sketchfab.com/EthanfromEngland)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SpaceShip Fighter  - Version 2 [MESHY 6]" (https://sketchfab.com/3d-models/spaceship-fighter-version-2-meshy-6-ff69bc6de8584bb4b2d6fac0b5a1d2ed) by Ethan Cox (https://sketchfab.com/EthanfromEngland) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

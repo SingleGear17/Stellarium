@@ -1,0 +1,514 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 55743,
+      "max": [
+        20056.490234375,
+        13353.7939453125,
+        25932.0546875
+      ],
+      "min": [
+        -20402.517578125,
+        -163.36265563964844,
+        -25344.677734375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 668916,
+      "componentType": 5126,
+      "count": 55743,
+      "max": [
+        0.9999988675117493,
+        0.9999996423721313,
+        0.9999995827674866
+      ],
+      "min": [
+        -0.9999979734420776,
+        -0.9999997019767761,
+        -0.9999991655349731
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 55743,
+      "max": [
+        0.9999969601631165,
+        0.9999972581863403,
+        0.9999982714653015,
+        1.0
+      ],
+      "min": [
+        -0.999999463558197,
+        -0.9999958872795105,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 55743,
+      "max": [
+        0.9977432489395142,
+        0.997532844543457
+      ],
+      "min": [
+        0.0022568192798644304,
+        0.0022568192798644304
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 445944,
+      "componentType": 5126,
+      "count": 55743,
+      "max": [
+        0.9977432489395142,
+        0.997532844543457
+      ],
+      "min": [
+        0.0022568192798644304,
+        0.0022568192798644304
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 891888,
+      "componentType": 5126,
+      "count": 55743,
+      "max": [
+        0.9977432489395142,
+        0.997532844543457
+      ],
+      "min": [
+        0.0022568192798644304,
+        0.0022568192798644304
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1337832,
+      "componentType": 5126,
+      "count": 55743,
+      "max": [
+        0.9977432489395142,
+        0.997532844543457
+      ],
+      "min": [
+        0.0022568192798644304,
+        0.0022568192798644304
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1783776,
+      "componentType": 5126,
+      "count": 55743,
+      "max": [
+        0.9977432489395142,
+        0.997532844543457
+      ],
+      "min": [
+        0.0022568192798644304,
+        0.0022568192798644304
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 137529,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 700,
+      "max": [
+        11.649999618530273
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 700,
+      "max": [
+        0.1026330292224884,
+        0.003209474729374051,
+        2.805544376373291
+      ],
+      "min": [
+        -0.04197544604539871,
+        -0.006233952008187771,
+        -1.4683544635772705
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 2800,
+      "componentType": 5126,
+      "count": 561,
+      "max": [
+        11.649999618530273
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "byteOffset": 8400,
+      "componentType": 5126,
+      "count": 561,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 5044,
+      "componentType": 5126,
+      "count": 700,
+      "max": [
+        11.649999618530273
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 700,
+      "max": [
+        0.7082443833351135,
+        0.05563458055257797,
+        2.984456614285591e-06,
+        0.7130379676818848
+      ],
+      "min": [
+        0.6986997127532959,
+        -6.341108019114472e-06,
+        -0.05530976504087448,
+        0.7048463225364685
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 4,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 4,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 4,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Spaceship_cool_AI1.001_gameassetAction",
+      "samplers": [
+        {
+          "input": 9,
+          "interpolation": "LINEAR",
+          "output": 10
+        },
+        {
+          "input": 11,
+          "interpolation": "LINEAR",
+          "output": 12
+        },
+        {
+          "input": 13,
+          "interpolation": "LINEAR",
+          "output": 14
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Jungle Jim (https://sketchfab.com/jungle_jim)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/spaceship-colaid1-50k-34acc30c89364a668ab1025686a686bc",
+      "title": "Spaceship COLAID1 50k"
+    },
+    "generator": "Sketchfab-17.8.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 550116,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2229720,
+      "byteOffset": 550116,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1337832,
+      "byteOffset": 2779836,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 891888,
+      "byteOffset": 4117668,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7844,
+      "byteOffset": 5009556,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15132,
+      "byteOffset": 5017400,
+      "byteStride": 12,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11200,
+      "byteOffset": 5032532,
+      "byteStride": 16,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5043732,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Spaceship_cool_AI1.001_gameasset_Mat_1.002_baseColor.png"
+    },
+    {
+      "uri": "textures/Spaceship_cool_AI1.001_gameasset_Mat_1.002_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Spaceship_cool_AI1.001_gameasset_Mat_1.002_emissive.png"
+    },
+    {
+      "uri": "textures/Spaceship_cool_AI1.001_gameasset_Mat_1.002_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "Spaceship_cool_AI1.001_gameasset_Mat_1.002",
+      "normalTexture": {
+        "index": 3
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Spaceship_cool_AI1.001_gameasset_Spaceship_cool_AI1.001_gameasset_Mat_1.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6,
+            "TEXCOORD_4": 7
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.01562618277966954,
+        0.9998779296875,
+        0.0,
+        0.0,
+        -0.9998779296875,
+        0.01562618277966954,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "534f3ed9879641baa4b56b9c6750c30b.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Object_2"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Spaceship_cool_AI1.001_gameasset",
+      "rotation": [
+        0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071068286895752
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Spaceship_cool_AI1.001_gameasset_Spaceship_cool_AI1.001_gameasset_Mat_1.002_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
